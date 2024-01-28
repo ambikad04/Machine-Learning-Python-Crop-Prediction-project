@@ -1,1 +1,1 @@
-# Machine-Learning-Python-Crop-Prediction-project
+# Machine-Learning-Python/Crop-Prediction-project
