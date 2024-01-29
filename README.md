@@ -18,7 +18,7 @@ Welcome to the Crop Prediction Project! This project focuses on leveraging machi
 3. **Run the main script:** python main.py
 
 ## Contributing:
-Contributions are not currently accepted as this project is developed solely by [@ambikad04].
+Contributions are not currently accepted as this project is developed solely by Ambika(ambikad04) .
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for details.
