@@ -2,7 +2,7 @@
 Welcome to the Crop Prediction Project! This project focuses on leveraging machine learning to optimize agricultural decisions. By analyzing environmental factors and historical crop data, the goal is to develop predictive models that forecast optimal crop choices for specific regions and seasons.
 
 ## Features:
-### Data Analysis: Analyze environmental factors and historical crop patterns.
+ <b>Data Analysis:</b> Analyze environmental factors and historical crop patterns.
 ### Machine Learning Model: Develop predictive models using algorithms like Logistic Regression.
 ### Performance Evaluation: Assess model performance using metrics like confusion matrices.
 ### Visualization: Visualize data and model predictions using techniques like heatmaps.
