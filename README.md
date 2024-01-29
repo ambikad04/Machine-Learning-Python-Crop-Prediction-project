@@ -2,15 +2,15 @@
 Welcome to the Crop Prediction Project! This project focuses on leveraging machine learning to optimize agricultural decisions. By analyzing environmental factors and historical crop data, the goal is to develop predictive models that forecast optimal crop choices for specific regions and seasons.
 
 ## Features:
- <b>Data Analysis:</b> Analyze environmental factors and historical crop patterns.
-### Machine Learning Model: Develop predictive models using algorithms like Logistic Regression.
-### Performance Evaluation: Assess model performance using metrics like confusion matrices.
-### Visualization: Visualize data and model predictions using techniques like heatmaps.
+Data Analysis:</b> Analyze environmental factors and historical crop patterns.
+Machine Learning Model: Develop predictive models using algorithms like Logistic Regression.
+Performance Evaluation: Assess model performance using metrics like confusion matrices.
+Visualization: Visualize data and model predictions using techniques like heatmaps.
 
 ## Getting Started:
-### Clone the repository: git clone https://github.com/your-username/crop-prediction.git
-### Install dependencies: pip install -r requirements.txt
-### Run the main script: python main.py
+Clone the repository: git clone https://github.com/your-username/crop-prediction.git
+Install dependencies: pip install -r requirements.txt
+Run the main script: python main.py
 
 ## Contributing:
 Contributions are not currently accepted as this project is developed solely by [Your Name].
