@@ -19,6 +19,3 @@ Welcome to the Crop Prediction Project! This project focuses on leveraging machi
 
 ## Contributing:
 Contributions are not currently accepted as this project is developed solely by Ambika(ambikad04) .
-
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
