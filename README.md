@@ -10,12 +10,12 @@ Welcome to the Crop Prediction Project! This project focuses on leveraging machi
 
 **Visualization:** Visualize data and model predictions using techniques like heatmaps.
 
-## Getting Started:
+### Getting Started:
 1. **Clone the repository:** git clone https://github.com/ambikad04/Machine-Learning-Python-Crop-Prediction-project.git
 
 2. **Install dependencies:** pip install -r requirements.txt
 
 3. **Run the main script:** python main.py
 
-## Contributing:
+### Contributing:
 Contributions are not currently accepted as this project is developed solely by Ambika(ambikad04) .
